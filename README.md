@@ -18,15 +18,13 @@ The partial cake recipes are courtesy ChatGPT.
 
 # TASK 0: Fork this repo
 
-Note: If you are in lab, your TA will share a different URL for you to fork from, so that you
-can make pull requests to that repo during the Task 3 activity during the lab.
-
-During lab, you should not fork directly from https://github.com/CSC207-2024F-UofT/Lab2.
-If you miss the lab and work on this after, you should use this URL though.
+For this task, you will need to fork this repo at: https://github.com/CSC207-2025S-UofT/Lab2.
 
 - [ ] Make a fork of this repo and clone a local copy (as you did in Lab 1).
   - **Important**: make sure to uncheck the option to only fork the main branch, as the repo
   contains two branches you will use later in this lab.
+
+For you to think: you actually have access to clone the original repo - so why won't we just work on this local copy, why do we need to fork?
 
 # TASK 1: Your first branch
 
