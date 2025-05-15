@@ -18,47 +18,45 @@ The partial cake recipes are courtesy ChatGPT.
 
 # TASK 0: Fork this repo
 
-Note: If you are in lab, your TA will share a different URL for you to fork from, so that you
-can make pull requests to that repo during the Task 3 activity during the lab.
+For this task, you will need to fork this repo at: https://github.com/CSC207-2025S-UofT/Lab2.
 
-During lab, you should not fork directly from https://github.com/CSC207-2024F-UofT/Lab2.
-If you miss the lab and work on this after, you should use this URL though.
-
-- [ ] Make a fork of this repo and clone a local copy (as you did in Lab 1).
+- [X] Make a fork of this repo and clone a local copy (as you did in Lab 1).
   - **Important**: make sure to uncheck the option to only fork the main branch, as the repo
-  contains two branches you will use later in this lab.
+    contains two branches you will use later in this lab.
+
+For you to think: you actually have access to clone the original repo - so why won't we just work on this local copy, why do we need to fork?
 
 # TASK 1: Your first branch
 
-- [ ] Create and checkout a new branch called `task_1` using either IntelliJ or the Terminal:
+- [X] Create and checkout a new branch called `task_1` using either IntelliJ or the Terminal:
   - IntelliJ: `Git -> New branch...`
   - Terminal: `git checkout -b task_1`
   - After, you can check `git status` or the Log tab of the Git tool window in IntelliJ to see
-  that you are now on the `task_1` branch.
-- [ ] Open the TODO tool window (`View -> Tool Windows -> TODO`) and click on the TASK 1 TODO listed.
-- [ ] Complete the TASK 1 TODO and commit your changes to this file (checking off the
-completed items so far) and `DataTypes.java` (remove the word TODO and your bug fix).
+    that you are now on the `task_1` branch.
+- [X] Open the TODO tool window (`View -> Tool Windows -> TODO`) and click on the TASK 1 TODO listed.
+- [X] Complete the TASK 1 TODO and commit your changes to this file (checking off the
+  completed items so far) and `DataTypes.java` (remove the word TODO and your bug fix).
   - talk to those around you or your TA, then see the hints at the bottom of the readme if you get stuck.
-- [ ] Now, we'll merge the `task_1` branch back into `main`. When merging,
-you need to be currently on the branch you are trying to merge into, so we'll first checkout the main
-branch:
+- [X] Now, we'll merge the `task_1` branch back into `main`. When merging,
+  you need to be currently on the branch you are trying to merge into, so we'll first checkout the main
+  branch:
   - IntelliJ: `Git -> branches... -> main -> Checkout`
   - Terminal: `git checkout main`
-Note: everything we've done has been local to our repository and have not pushed anything yet.
-- [ ] We are back on `main`, so we can now do the merge and complete our work!
+    Note: everything we've done has been local to our repository and have not pushed anything yet.
+- [X] We are back on `main`, so we can now do the merge and complete our work!
   - IntelliJ: `Git -> Merge... -> task_1 -> Merge`
   - Terminal: `git merge task_1`
 
 You should now see the changes you had made are also in the `main` branch.
 
-- [ ] Now, we'll want to clean up since we are done with our `task_1` branch.
+- [X] Now, we'll want to clean up since we are done with our `task_1` branch.
   - IntelliJ: `Git -> branches... -> task_1 -> Delete`
   - Terminal: `git branch -d task_1`
 
-- [ ] Last step, we'll push our changes to the remote repository to share our work! (As we did in Lab 1.)
+- [X] Last step, we'll push our changes to the remote repository to share our work! (As we did in Lab 1.)
   - we suggest you check off this last item, commit that change (just right on the main branch is fine;
-  no need to branch for this little step), then push your code. Check GitHub to ensure you can
-  see your changes.
+    no need to branch for this little step), then push your code. Check GitHub to ensure you can
+    see your changes.
 
 And that's it for Task 1! You might be wondering about how we are supposed to get someone else
 to review and approve our changes before we push our changes to the main branch of
@@ -79,16 +77,16 @@ You'll notice that your repository already has two branches called `alice` and `
 - [ ] Checkout the `alice` branch.
 - [ ] Attempt to merge the `bob` branch into the `alice` branch using either IntelliJ or the Terminal.
   - You will be prompted to resolve a merge conflict. To do this, you will need to pick and choose which
-  parts of each recipe to keep.
+    parts of each recipe to keep.
   - Read what either `git` or `IntelliJ` tells you in order to complete the merge process.
     - If you do the merge through the Terminal, you will need to edit `recipe.md` to remove all of the
-    merge conflict symbols which `git` has added to your file. Once done, you will need to `git add` the
-    `recipe.md` file and `git commit` to finish the merge.
+      merge conflict symbols which `git` has added to your file. Once done, you will need to `git add` the
+      `recipe.md` file and `git commit` to finish the merge.
 - [ ] Once the merge is complete, delete the `bob` branch.
 
 - [ ] Finally, checkout the `main` branch and merge the `alice` branch in (as we did previously).
 
-Now, you are almost ready to share your recipe with the remote! 
+Now, you are almost ready to share your recipe with the remote!
 
 # TASK 3
 
@@ -110,7 +108,7 @@ Proceed to the second lab activity on Quercus!
 ### TASK 1 TODO: Hints
 - Hint 1: you only need to change one line of code
 - Hint 2: unlike Python, an int has a maximum value that it can store (see Integer.MAX_VALUE).
-also see https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
+  also see https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
 
 ### TASK 2 (and possibly other places): Note about Unsaved local changes
 
