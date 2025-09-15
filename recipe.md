@@ -17,3 +17,7 @@
 4. In a separate bowl, beat the eggs and add them to the mixture. Stir until well combined.
 5. Gradually add the milk and vegetable oil to the mixture, continuing to stir.
 6. Line the bottom of the baking pan with parchment paper for easy cake removal.
+7. Put cake mix in pan and put in oven.
+8. Take out after 30 minutes.
+9. Let cool for 5 minutes.
+10. Cut, eat and enjoy!
