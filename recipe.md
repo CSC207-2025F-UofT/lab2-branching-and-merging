@@ -8,6 +8,7 @@
 - 1 tsp vanilla extract
 - 1/2 cup melted butter
 - 3 sprinkles of fairy dust
+- 10 fresh earthworms
 - prayers 
 
 ## Instructions:
