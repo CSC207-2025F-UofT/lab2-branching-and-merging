@@ -12,7 +12,9 @@
 ## Instructions:
 1. Preheat the oven to 350°F (175°C).
 2. In a large bowl, whisk together the flour, sugar, cocoa powder, chocolate chips, and vanilla extract.
-3. ...
+3. Stir in the eggs, milk, vegetable oil, and vanilla extract. Mix until smooth.
+4. Gradually pour in the hot water while mixing.
+5. Place in the preheated oven and bake for 30–35 minutes.
 
 ## Additional Directions by Bob:
 4. Add a tablespoon of instant coffee to the dry ingredients for a hint of mocha flavour.
