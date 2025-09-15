@@ -115,7 +115,7 @@ Now, you are almost ready to share your recipe with the remote!
 
 # TASK 3
 
-- [ ] Checkout a new branch called `task_3`.
+- [X] Checkout a new branch called `task_3`.
 
 - [ ] Commit any changes that you want to `recipe.md` to further improve the recipe.
 
