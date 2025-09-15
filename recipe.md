@@ -6,14 +6,15 @@
 - 3/4 cup unsweetened cocoa powder
 - 1 cup chocolate chips
 - 1 tsp vanilla extract
-- ...
+- 1 tsp of coffee powder
+- 1 tsp of ground cinnamon
 
 ## Instructions:
 1. Preheat the oven to 375°F (190°C).
 2. In a large bowl, whisk together the flour, sugar, cocoa powder, and ground cinnamon.
-3. ...
+3. Add a tablespoon of vanilla extract and whisk it at a medium speed to make sure the cake batter is as soft as possible.
 
 ## Additional Directions by Bob:
-4. Add a tablespoon of instant coffee to the dry ingredients for a hint of mocha flavour.
+4. Add a tablespoon of coffee powder to the dry ingredients for a hint of mocha flavour.
 5. Mix in a handful of chocolate chunks for extra indulgence.
 6. Line the bottom of the baking pan with parchment paper for easy cake removal.
