@@ -117,7 +117,7 @@ Now, you are almost ready to share your recipe with the remote!
 
 - [x] Checkout a new branch called `task_3`.
 
-- [ ] Commit any changes that you want to `recipe.md` to further improve the recipe.
+- [x] Commit any changes that you want to `recipe.md` to further improve the recipe.
 
 - [ ] **While still on the `task_3` branch**, push your code to your remote repository on GitHub.
 
