@@ -107,9 +107,9 @@ You'll notice that your repository already has two branches called `alice` and `
     merge conflict symbols which `git` has added to your file. Once done, you will need to `git add` the
     `recipe.md` file and `git commit` to finish the merge.
 
-- [x] Once the merge is complete, delete the `bob` branch.
+- [ ] Once the merge is complete, delete the `bob` branch.
 
-- [x] Finally, checkout the `main` branch and merge the `alice` branch in (as we did previously).
+- [ ] Finally, checkout the `main` branch and merge the `alice` branch in (as we did previously).
 
 Now, you are almost ready to share your recipe with the remote! 
 
