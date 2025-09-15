@@ -6,7 +6,9 @@
 - 3/4 cup unsweetened cocoa powder
 - 1 cup chocolate chips
 - 1 tsp vanilla extract
-- ...
+- 1/2 cup melted butter
+- 3 sprinkles of fairy dust
+- prayers 
 
 ## Instructions:
 1. Preheat the oven to 350°F (175°C).
